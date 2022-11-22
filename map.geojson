@@ -10,7 +10,7 @@
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 2: Rustam's domination of Arzhang",
     "zoom":5,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
@@ -19,7 +19,7 @@
     "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Rock",
+    "chapter":"Chapter 3: Rustam's warrior attire",
     "zoom":4,
     "image":"img/pictorial-st-louis-water-works.png",
     "source-credit":"Source: StLouis-MO.gov",
@@ -28,7 +28,7 @@
     "geometry":{"type":"Point","coordinates":[3145,1680]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Chapter 4: Bird",
+    "chapter":"Chapter 4: Arzhang's savagery: attire and expression",
     "zoom":5,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
@@ -37,7 +37,7 @@
     "geometry":{"type":"Point","coordinates":[5225,1185]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: Flags & Standards",
+    "chapter":"Chapter 5: Raksh: The might of the steed",
     "zoom":3,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
@@ -46,7 +46,7 @@
     "geometry":{"type":"Point","coordinates":[5030,2150]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Flowers",
+    "chapter":"Chapter 6: Rustam: Heroism and interpretation",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
