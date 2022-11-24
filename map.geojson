@@ -6,7 +6,7 @@
     "image":"img/pictorial-st-louis.png",
     "source-credit":"Source: Library of Congres",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"This folio is a depiction of the great Persian hero Rustam’s confrontation with the div chief Arzhang during the seven labours that he and his horse Raksh undergo on their mission to rescue the Shah Kai Kaus and his retainers. Rustam undertook this monumental quest when Shah Kai Kaus was manipulated into invading the dangerous land of Mazandaran, occupied by the div, evil creatures led by the White Div and Arzhang. Failing in his attempt to conquer Mazandaran, the Shah and his men are captured by the White Div and blinded. Upon hearing this, Rustam rushes off atop Raksh to save the Shah and his men. \n\ Rustam’s slaying of the div chief Arzhang is his sixth and penultimate labour on this journey, where Rustam, approaching Arzhang mounted on his horse Raksh “grasped boldly his head and ears and neck, then lion-like tore off his head and flung it at his troops” (Ferdowsi 1908, 57). After slaying Arzhang, the other div who followed the chief scatter in fear, as Rustam pursues them sword in hand (Ferdowsi 1908, 57). During the remainder of Firdawsi’s account of the sixth labour, Rustam and Raksh untie their untrustworthy guide Ulad who leads them in secret to where Kai Kaus and his men are kept, proclaiming to them all his intention to slay the White Div in his cave and to restore the sight of the Shah and his retainers (Ferdowsi 1908, 58-59).\" (Hebert & Dempsey)"},
+    "description":"\"This folio is a depiction of the great Persian hero Rustam’s confrontation with the div chief Arzhang during the seven labours that he and his horse Raksh undergo on their mission to rescue the Shah Kai Kaus and his retainers. Rustam undertook this monumental quest when Shah Kai Kaus was manipulated into invading the dangerous land of Mazandaran, occupied by the div, evil creatures led by the White Div and Arzhang. Failing in his attempt to conquer Mazandaran, the Shah and his men are captured by the White Div and blinded. Upon hearing this, Rustam rushes off atop Raksh to save the Shah and his men. Rustam’s slaying of the div chief Arzhang is his sixth and penultimate labour on this journey, where Rustam, approaching Arzhang mounted on his horse Raksh “grasped boldly his head and ears and neck, then lion-like tore off his head and flung it at his troops” (Ferdowsi 1908, 57). After slaying Arzhang, the other div who followed the chief scatter in fear, as Rustam pursues them sword in hand (Ferdowsi 1908, 57). During the remainder of Firdawsi’s account of the sixth labour, Rustam and Raksh untie their untrustworthy guide Ulad who leads them in secret to where Kai Kaus and his men are kept, proclaiming to them all his intention to slay the White Div in his cave and to restore the sight of the Shah and his retainers (Ferdowsi 1908, 58-59).\" (Hebert & Dempsey)"},
     "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":2,
@@ -37,7 +37,7 @@
     "geometry":{"type":"Point","coordinates":[5225,1185]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: Raksh: The might of the steed",
+    "chapter":"Chapter 5: Rustam: Heroism and Interpretation.",
     "zoom":3,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
@@ -46,7 +46,7 @@
     "geometry":{"type":"Point","coordinates":[5030,2150]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Rustam: Heroism and interpretation",
+    "chapter":"Chapter 6: Calligraphy: Across time and space.",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
@@ -55,13 +55,13 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
  {"type":"Feature","properties":
     {"id":7,
-    "chapter":"Chapter 6: Rustam: Heroism and interpretation",
+    "chapter":"Chapter 7: Background Detail: Style over the ages.",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "geometry":{"type":"Point","coordinates":[500,500]}},
  {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 6: Rustam: Heroism and interpretation",
@@ -70,7 +70,7 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "geometry":{"type":"Point","coordinates":[2600,2920]}},
  {"type":"Feature","properties":
     {"id":9,
     "chapter":"Chapter 6: Rustam: Heroism and interpretation",
@@ -79,5 +79,5 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}}
+    "geometry":{"type":"Point","coordinates":[1000,2920]}}
     ]}
