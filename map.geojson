@@ -16,7 +16,7 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"The position of the figures within this image, Rustam mounted atop Raksh and Arzhang flailing beneath them in Rustam’s arms, coveys the might of the mounted warrior and establishes the power dynamic within the story. The image captures Rustam at a moment in the story where he has already beaten Arzhang, holding the div’s horns in his hands as the div flails desperately to escape, thus conveying Rustam’s might as a warrior by effectively depicting the swiftness of his victory over a foe second in fierceness to the White Div. While Arzhang facial expression is one of pain and terror, his body is limp as he is dragged along beside Raksh, his legs unable to muster the strength and only one of his arms raised to meet Rustam’s, which drapes ineffectually over the hero’s gauntlet, thus conveying his inability to resist Rustam’s attack.\""},
-    "geometry":{"type":"Point","coordinates":[3000,360]}},
+    "geometry":{"type":"Point","coordinates":[2500,4500]}},
   {"type":"Feature","properties":
     {"id":3,
     "chapter":"Chapter 3: Rustam's warrior attire",
@@ -34,7 +34,7 @@
     "source-credit":"Source: Eric Erickson via Ancestry.com",
     "source-link":"http://rootsweb.ancestry.com/~asylums/stlouis_mo/index.html",
     "description":"\"In contrast to Rustam’s status and heritage being conveyed through his attire, Arzhang’s attire and facial expressions indicate his wild and deranged state. Firstly, Arzhang’s clothing is significant in his lack of coverage, wearing only a red kilt and a yellow belt. The div chief’s clothes signify his detachment from Persian society through his immodesty, exposing his full torso down to his waist. Within Islam, modesty in one’s dress is exceedingly important, and considering the intended audience of this illustration, the choice to depict Arzhang immodestly builds upon his wild and antagonistic character. Another important aspect of Arzhang’s depiction is his animalistic features, spouting brown fur across his body, a tail, horns, large ears, and a long snout, highlighting the hybridization of human and animal within the div, indicating their supernatural status and their difference from both Rustam and his horse Raksh. Arzhang’s facial expression is one of desperation, with his mouth open and his eyes wide showcasing a loss of control and a sense of panic, again illustrating the div’s lack of refinement and savage nature.\""},
-    "geometry":{"type":"Point","coordinates":[5225,1185]}},
+    "geometry":{"type":"Point","coordinates":[2500,5000]}},
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: Rustam: Heroism and Interpretation.",
