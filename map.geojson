@@ -39,9 +39,9 @@
     {"id":7,
     "chapter":"Chapter 7: Background Detail: Style over the ages.",
     "zoom":3,
-    "image":"img/CH8IMG.jpg",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
+    "image":"img/CH7IMG.jpg",
+    "source-credit":"An example of Chinese influence on Safavid manuscript illustration. Source: MET",
+    "source-link":"https://www.metmuseum.org/art/collection/search/452111",
     "description":"\"Another important piece within the image that assists us in understanding the global context of this or any manuscript illustration is the background imagery present, as the influence of different schools of painting can be found within many illustrated manuscripts from across the Islamic world. Artists would draw on traditional Persian and Arabic styles at times, sometimes incorporating elements of Chinese art introduced by trade and Mongol conquest, with some late examples of illustrated manuscripts incorporating European styles and techniques during the Qajar period, thus characterizing the art of many illustrated manuscripts as conversations between the past and present (Assemi 2022, 276). Pictured above is an example of this interplay between art styles from the Safavid period, wherein stylistic elements of Chinese landscape painting can be seen in its highly detailed depictions of lush vegetation and sharp, colourful mountains working together to lend the piece a sense of intense verticality. Meanwhile, our scene of Rustam’s sixth labour takes place on a relatively flat landscape devoid of much detail, resembling a white hill with small blue depictions of vegetation against a golden sky. This depiction shifts focus towards the figures in the image drawing the eye to the conflict between Rustam and Arzhang rather than using the background as a space to showcase artistic development as other manuscripts influenced by Chinese and European landscape paintings would, indicating a focus on retaining a focus on traditionally Persian art forms, which traditionally maintained a ‘stage-like’ composition (Assemi 2022, 279).\""},
     "geometry":{"type":"Point","coordinates":[4000,3500]}},
  {"type":"Feature","properties":
